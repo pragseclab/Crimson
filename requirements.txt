@@ -1,0 +1,10 @@
+psutil
+logging
+websocket-client
+pika
+pytz
+requests
+pytesseract
+whois
+bs4
+iocsearcher
